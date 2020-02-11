@@ -1,3 +1,5 @@
+### NOTE: This is no longer maintained!  See [this file](https://github.com/keggsmurph21/dotfiles/tree/master/bash-sources/wt) for most recent version.
+
 # wt
 
 utility for wrapping around `git worktree`, allowing easy navigation between trees
